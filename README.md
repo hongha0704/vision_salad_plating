@@ -1,9 +1,9 @@
-🥗 비전 기술을 활용한 샐러드 사용자 커스텀 플레이팅
+<img width="418" height="88" alt="image" src="https://github.com/user-attachments/assets/e3161311-2643-4c64-8d19-434da4d0ca6d" /><img width="555" height="88" alt="image" src="https://github.com/user-attachments/assets/89ca4ccd-7630-4fb2-a59b-455e71ea9d60" />🥗 비전 기술을 활용한 샐러드 사용자 커스텀 플레이팅
 ===
 &nbsp;
 
 ### 📷 작업공간
-<img src="https://github.com/user-attachments/assets/d49039c5-8c1e-432e-844c-f7061b0cb455" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="project_management"></img>   
+<img src="https://github.com/user-attachments/assets/d49039c5-8c1e-432e-844c-f7061b0cb455" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="project_workspace"><img src="https://github.com/user-attachments/assets/e30fb8ba-2b58-49fa-8919-c3172bdef0e1" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="project_workspace"></img>   
 &nbsp;
 
 ### 📷 시연 영상
@@ -89,18 +89,8 @@ https://youtu.be/NBL9EKFYKEo
 &nbsp;
 
 ## 5. 🤖 Hardware
-### **Robot**
-- Doosan Robotics m0609, OnRobot RG2 Gripper
 ### **Vision Camera**
 - Intel RealSense D435i
-### **SBC**
-- Raspberrypi4 4gb
-### **Mic**
-- Logitech HD Webcam C270
-### **Speaker**
-- Blutooth speaker
-### **Sensor**
-- HC-SRO4 Ultrasonic Sensor
 
 &nbsp;
 
@@ -115,14 +105,9 @@ https://youtu.be/NBL9EKFYKEo
 &nbsp;
 
 ## 8. 🔍 프로젝트 기대효과
-### **활용 방안**
-- 약국 내 조제 공정
-- 의료 어시스턴트
-- 창고, 서랍 정리
-
 ### **기대 효과**
-- 약물 사고 예방 → 의료 사고, 부작용 최소화
-- 약사의 단순 반복업무 감소 → 핵심 업무 집중 가능
-- 팬데믹 등 상황에서 비대면 복약 시스템 활용 가능
+- 재방문율 증가 및 홍보 효과
+- 실시간 식재료 소진율 및 식재료 별 재고 소진 예측 가능
+- 고객 참여와 재미 및 개인화 된 경험 제공
 
 &nbsp;
