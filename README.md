@@ -87,7 +87,6 @@ https://youtu.be/NBL9EKFYKEo
 
 ### **Network**
 ![Socket](https://img.shields.io/badge/Socket-C93CD7?style=for-the-badge&logo=Socket&logoColor=white)   
-[![My Skills](https://skillicons.dev/icons?i=socket&theme=light)](https://skillicons.dev)   
 
 &nbsp;
 
