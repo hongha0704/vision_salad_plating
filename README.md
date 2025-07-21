@@ -48,7 +48,7 @@ https://youtu.be/NBL9EKFYKEo
 
 &nbsp;
 
-<img src="https://github.com/user-attachments/assets/ad44d7fb-b894-46e0-81ac-3cb1ea63d847" width="65%" height="65%" title="px(픽셀) 크기 설정" alt="역할분담"></img>
+<img src="https://github.com/user-attachments/assets/ad44d7fb-b894-46e0-81ac-3cb1ea63d847" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="역할분담"></img>
 
 &nbsp;
 
