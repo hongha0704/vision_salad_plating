@@ -1,4 +1,4 @@
-<img width="418" height="88" alt="image" src="https://github.com/user-attachments/assets/e3161311-2643-4c64-8d19-434da4d0ca6d" /><img width="555" height="88" alt="image" src="https://github.com/user-attachments/assets/89ca4ccd-7630-4fb2-a59b-455e71ea9d60" />🥗 비전 기술을 활용한 샐러드 사용자 커스텀 플레이팅
+🥗 비전 기술을 활용한 샐러드 사용자 커스텀 플레이팅
 ===
 &nbsp;
 
