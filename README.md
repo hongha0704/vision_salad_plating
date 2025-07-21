@@ -21,8 +21,7 @@ https://youtu.be/NBL9EKFYKEo
 #### [4. 📌 SKILLS](#4--skills-1)   
 #### [5. 🤖 Hardware](#5--hardware-1)   
 #### [6. 🎬 System Flow](#6--system-flow-1)   
-#### [7. 🛠️ Node Architecture](#7-%EF%B8%8F-node-architecture-1)   
-#### [8. 🔍 프로젝트 기대효과](#8--프로젝트-기대효과-1)   
+#### [7. 🔍 프로젝트 기대효과](#7--프로젝트-기대효과-1)   
 
 ---
 
@@ -46,6 +45,10 @@ https://youtu.be/NBL9EKFYKEo
 |권빈| YOLO 커스텀 데이터셋 제작 및 학습, 과일 분류 및 좌표 출력 알고리즘 개발 |
 |강순혁| 샐러드볼 설계 및 제작, 검수 환경 하드웨어 제작, 물체의 좌표 확인 및 오차 비교 |
 |백홍하| YOLO 커스텀 데이터셋 제작 및 학습, 과일 분류 및 좌표 출력 알고리즘 개발 |
+
+&nbsp;
+
+<img src="https://github.com/user-attachments/assets/ad44d7fb-b894-46e0-81ac-3cb1ea63d847" width="65%" height="65%" title="px(픽셀) 크기 설정" alt="역할분담"></img>
 
 &nbsp;
 
@@ -95,16 +98,14 @@ https://youtu.be/NBL9EKFYKEo
 &nbsp;
 
 ## 6. 🎬 System Flow
-<img src="rokey_project/image/system_flow/ROKEY_Pharmacy_detail.drawio.png" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="system_flow"></img>
+1. 키오스크에서 샐러드 토핑을 선택
+2. 키오스크에서 샐러드 토핑 위치 설정
+3. 카메라 화면에서 YOLO를 활용하여 실제 샐러드 토핑을 detection 하고, bounding box의 중심점 좌표 반환
+4. 최종적으로 socket 통신을 사용하여 실제 샐러드 토핑의 위치와 사용자가 선택한 샐러드 토핑 위치와 동일한지 확인
 
 &nbsp;
 
-## 7. 🛠️ Node Architecture
-<img src="rokey_project/image/node_architecture/250717_node_architecture.png" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="node_architecture"></img>
-
-&nbsp;
-
-## 8. 🔍 프로젝트 기대효과
+## 7. 🔍 프로젝트 기대효과
 ### **기대 효과**
 - 재방문율 증가 및 홍보 효과
 - 실시간 식재료 소진율 및 식재료 별 재고 소진 예측 가능
