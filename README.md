@@ -3,7 +3,7 @@
 &nbsp;
 
 ### 📷 작업공간
-<img src="https://github.com/user-attachments/assets/d49039c5-8c1e-432e-844c-f7061b0cb455" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="project_workspace"><img src="https://github.com/user-attachments/assets/e30fb8ba-2b58-49fa-8919-c3172bdef0e1" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="project_workspace"></img>   
+<img src="https://github.com/user-attachments/assets/d49039c5-8c1e-432e-844c-f7061b0cb455" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="project_workspace"><img src="https://github.com/user-attachments/assets/e30fb8ba-2b58-49fa-8919-c3172bdef0e1" width="43%" height="43%" title="px(픽셀) 크기 설정" alt="project_workspace"></img>   
 &nbsp;
 
 ### 📷 시연 영상
@@ -21,7 +21,8 @@ https://youtu.be/NBL9EKFYKEo
 #### [4. 📌 SKILLS](#4--skills-1)   
 #### [5. 🤖 Hardware](#5--hardware-1)   
 #### [6. 🎬 System Flow](#6--system-flow-1)   
-#### [7. 🔍 프로젝트 기대효과](#7--프로젝트-기대효과-1)   
+#### [7. ✨ 주요 기능](#7--주요-기능-1)   
+#### [8. 🔍 프로젝트 기대효과](#8--프로젝트-기대효과-1)   
 
 ---
 
@@ -104,7 +105,34 @@ https://youtu.be/NBL9EKFYKEo
 
 &nbsp;
 
-## 7. 🔍 프로젝트 기대효과
+## 7. ✨ 주요 기능
+### 1. 키오스크에서 샐러드 토핑 설정   
+<img src="https://github.com/user-attachments/assets/9007bdfd-ed7f-4646-b032-030ff64dc0b4" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="image"></img>
+
+&nbsp;
+### 2. 키오스크에서 선택한 토핑을 원하는 위치로 그래그   
+<img src="https://github.com/user-attachments/assets/c77686b7-c8f6-4b59-b003-5ccf109e99db4" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="image"></img>
+
+&nbsp;
+### 3. 과일 인식 및 좌표 확인
+- YOLO 활용 과일 객체 인식   
+<img src="https://github.com/user-attachments/assets/43d87ea1-e82f-4593-b90b-4aef44d57650" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="image"></img>
+<img src="https://github.com/user-attachments/assets/cc9b41ae-e705-41c7-95dd-1ae999e556b3" width="43%" height="43%" title="px(픽셀) 크기 설정" alt="image"></img>
+
+- 과일 좌표 추출
+  - 과일의 좌표를 샐러드볼 중심 기준의 극좌표로 계산하기 위해, 샐러드볼의 외곽선 검출 및 중심점 추출
+<img src="https://github.com/user-attachments/assets/7b267e75-ed18-4df1-a717-68c044b11bec" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="image"></img>
+  - 객체 bounding box 중심점을 추출한 후 극좌표로 반환하여 과일 위치 추출   
+<img src="https://github.com/user-attachments/assets/b94229a4-24cf-440e-a1a7-845ea6269cfa" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="image"></img>
+
+&nbsp;
+### 4. 키오스크에서 설정한 위치와 실제 샐러드 배치가 동일한지 확인
+- 키오스크 과일 위치 설정과 같은 위치에 있으면 same 출력, 다르면 not same 출력   
+<img src="https://github.com/user-attachments/assets/43d6ad54-a49e-4a21-b899-76d7c1052505" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="image"></img>
+
+&nbsp;
+
+## 8. 🔍 프로젝트 기대효과
 ### **기대 효과**
 - 고객의 재방문율 증가 및 SNS를 통한 홍보 효과
 - 실시간 식재료 소진율 및 식재료 별 재고 소진 예측 가능
